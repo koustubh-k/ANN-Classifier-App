@@ -34,8 +34,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/customer-churn-streamlit.git
-cd customer-churn-streamlit
+git clone https://github.com/koustubh-k/ANN-Classifier-App.git
+cd ANN-Classifier-App.git
 Install dependencies:
 
 bash
